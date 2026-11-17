@@ -1,3 +1,10 @@
+/*
+name: Ryan Machis
+adm no: BCS-05-0549/2026
+description: using structure in a single product for a supermarket system
+version: 1
+*/
+
 #include <stdio.h>
 #include <string.h>
 
